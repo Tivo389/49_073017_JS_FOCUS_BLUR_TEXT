@@ -1,0 +1,1204 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"hi",
+				"hidden-xs \tBootstrap 3 Class"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"res",
+				"img-responsive \tBootstrap 3 Class"
+			],
+			[
+				"cx",
+				"col-xs-12 \tBootstrap 3 Class"
+			],
+			[
+				"tras",
+				"transform"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"v",
+				"visible-xs \tBootstrap 3 Class"
+			],
+			[
+				"vis",
+				"visible-xs \tBootstrap 3 Class"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"hidden",
+				"hidden-md \tBootstrap 3 Class"
+			],
+			[
+				"visi",
+				"visible-xs \tBootstrap 3 Class"
+			],
+			[
+				"hid",
+				"hidden-sm \tBootstrap 3 Class"
+			],
+			[
+				"vs",
+				"visible-lg \tBootstrap 3 Class"
+			],
+			[
+				"transi",
+				"transition-timing-function"
+			],
+			[
+				"marker",
+				"markerWindowTop"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"backgrou",
+				"background-position"
+			],
+			[
+				"conta",
+				"container-fluid \tBootstrap 3 Class"
+			],
+			[
+				"w",
+				"work_mos.html"
+			],
+			[
+				"by",
+				"byte_size_01.jpg\tw:842 h:842"
+			],
+			[
+				"fonts",
+				"font-size"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"fs",
+				"font-size"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"col-lg-off",
+				"col-lg-offset-6\t bootstrap.min.css"
+			],
+			[
+				"auck",
+				"auckland_01.jpg\tw:842 h:842"
+			],
+			[
+				"clo",
+				"col-lg-offset-0 \tBootstrap 3 Class"
+			],
+			[
+				"clo12",
+				"col-lg-12 \tBootstrap 3 Class"
+			],
+			[
+				"cll",
+				"col-lg-10 \tBootstrap 3 Class"
+			],
+			[
+				"color-b",
+				"color--blue\t stylesheet.scss"
+			],
+			[
+				"center",
+				"center__vh--css--child\t stylesheet.css"
+			],
+			[
+				"xs",
+				"hidden-xs \tBootstrap 3 Class"
+			],
+			[
+				"css",
+				"center__vh--css--child\t stylesheet.scss"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"padi",
+				"padding-top"
+			],
+			[
+				"navbar",
+				"navbar-fixed-top \tBootstrap 3 Class"
+			],
+			[
+				"random",
+				"randomRol"
+			],
+			[
+				"rand",
+				"randomCol"
+			],
+			[
+				"func",
+				"function_with_name"
+			],
+			[
+				"self",
+				"selfCollision"
+			],
+			[
+				"bl",
+				"blockSize"
+			],
+			[
+				"cen",
+				"center__vh--flex\t stylesheet.css"
+			],
+			[
+				"ce",
+				"center__vh--css\t stylesheet.css"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"color",
+				"color__theme--main--dark\t stylesheet.scss"
+			],
+			[
+				"we",
+				"well-lg \tBootstrap 3 Class"
+			],
+			[
+				"theme",
+				"color__theme--main--dark\t stylesheet.scss"
+			],
+			[
+				"consol",
+				"console_log"
+			],
+			[
+				"clic",
+				"clickLogo"
+			],
+			[
+				"addClass",
+				"addClassActive"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"colo",
+				"color__theme--main\t stylesheet.scss"
+			],
+			[
+				"color-",
+				"color__theme--main--dark\t stylesheet.scss"
+			],
+			[
+				"color__theme--main",
+				"color__theme--main--dark\t stylesheet.scss"
+			],
+			[
+				"dis",
+				"display--none\t stylesheet.scss"
+			],
+			[
+				"texta",
+				"text-align"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"textAlign",
+				"textAlign\t = 'left' Style CSS"
+			],
+			[
+				"draw",
+				"drawBorder"
+			],
+			[
+				"height",
+				"height\t = 'initial' Style CSS"
+			],
+			[
+				"key",
+				"keyActions"
+			],
+			[
+				"down",
+				"navDown\t = '' Style CSS"
+			],
+			[
+				"wd",
+				"width\t = 'initial' Style CSS"
+			],
+			[
+				"getElem",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"cons",
+				"console_log"
+			],
+			[
+				"check",
+				"checkCollision"
+			],
+			[
+				"y",
+				"ySpeed"
+			],
+			[
+				"x",
+				"xSpeed"
+			],
+			[
+				"coo",
+				"coordinate"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"style",
+				"font-style"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"br",
+				"border-radius"
+			],
+			[
+				"padin",
+				"padding-bottom"
+			],
+			[
+				"backgroundc",
+				"background-color"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"pa",
+				"pageX"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"b",
+				"bold"
+			],
+			[
+				"animation",
+				"animation-delay"
+			],
+			[
+				"tra",
+				"transform-origin"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"origin",
+				"transform-origin"
+			],
+			[
+				"F",
+				"FLORA-1.png\tw:404 h:562"
+			],
+			[
+				"f",
+				"FISH-1.png\tw:302 h:124"
+			],
+			[
+				"disp",
+				"display--inline\t stylesheet.css"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"well",
+				"well \tBootstrap 3 Class"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"left",
+				"left \tBootstrap 3 Class"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"diff",
+				"diffY"
+			],
+			[
+				"diffx",
+				"diffX"
+			],
+			[
+				"cli",
+				"clickCount"
+			],
+			[
+				"set",
+				"setInterval"
+			],
+			[
+				"clear",
+				"clearInterval"
+			],
+			[
+				"cl",
+				"clickCount"
+			],
+			[
+				"limi",
+				"clickLimit"
+			],
+			[
+				"interval",
+				"intervalSpeed"
+			],
+			[
+				"click",
+				"clickCount"
+			],
+			[
+				"inter",
+				"intervalSpeed"
+			],
+			[
+				"move",
+				"moveHeading"
+			],
+			[
+				"top",
+				"topOffset"
+			],
+			[
+				"if",
+				"if\tif"
+			],
+			[
+				"fade",
+				"fadeOut"
+			],
+			[
+				"update",
+				"updateGameState"
+			],
+			[
+				"correct",
+				"correctGuesses"
+			],
+			[
+				"getG",
+				"getGuess"
+			],
+			[
+				"functio",
+				"function"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"add",
+				"addThis2"
+			],
+			[
+				"function",
+				"function with name"
+			],
+			[
+				"name",
+				"name"
+			],
+			[
+				"variable",
+				"variable"
+			],
+			[
+				"pc",
+				"phrasesCharlie"
+			],
+			[
+				"phras",
+				"phrasesAlpha"
+			],
+			[
+				"answer",
+				"answerArray"
+			],
+			[
+				"aler",
+				"alert"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"last_filter": "reload",
+		"selected_items":
+		[
+			[
+				"reload",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"reloa",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"packag",
+				"Package Control: List Packages"
+			],
+			[
+				"live",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"r",
+				"Package Control: Remove Package"
+			],
+			[
+				"ackali",
+				"Package Control: List Packages"
+			],
+			[
+				"livereload",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"livere",
+				"Snippet: Create new LiveReload plugin"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Install Packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Install Package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#49_073017_JS_FOCUS_BLUR_TEXT"
+	],
+	"file_history":
+	[
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#49_073017_JS_FOCUS_BLUR_TEXT/README.md",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#48_072817_JS_PHOTO_BW_2_COLOR/JS_PHOTO_BW_2_COLOR.html",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#48_072817_JS_PHOTO_BW_2_COLOR/css/stylesheet.scss",
+		"/Users/SHUN/Dropbox/CANADA/01_NOTES_CONSULTANTS.txt",
+		"/Users/SHUN/Dropbox/CANADA/00_NOTES_CANADA.txt",
+		"/Users/SHUN/Dropbox/CANADA/My estimate total: 24 + 22 + 11 + 12 + 0 + 0 = 69p",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#49_07XX17_JS_FOCUS_BLUR_TEXT/README.md",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#47_072317_JS_BG_COLOR_CHANGE/css/stylesheet.scss",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#48_072817_JS_PHOTO_BW_2_COLOR/js/gray_to_color.js",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#39_022017_JS_IF_CLASS_IN_VIEW_V2/js/viewport.js",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#48_072817_JS_PHOTO_BW_2_COLOR/README.md",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/shun_css_snippet.scss",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2017_0122_0214_SHUNS_PORTFOLIO/04_HTML/css/stylesheet.scss",
+		"/Users/SHUN/Dropbox/00_メモ/00ADDRESS.txt",
+		"/Users/SHUN/Dropbox/05_JOBHUNT/00_PRE_INTERVIEW.txt",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/99_TEMPLATE_SET/V4_FEB_2017/css/stylesheet.scss",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#47_072317_JS_BG_COLOR_CHANGE/JS_BG_COLOR_CHANGE.html",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#47_072317_JS_BG_COLOR_CHANGE/js/bg_color_change.js",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/99_TEMPLATE_SET/V4_FEB_2017/template.html",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#47_072317_JS_BG_COLOR_CHANGE/README.md",
+		"/Users/SHUN/Dropbox/CANADA/04_STUDY/NOTES.txt",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/02_JAVASCRIPT_NOTES/00_THROTTLE_&_DEBOUNCE/JAPANESE_EXPLANATION/window_size_Throttle demo.html",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/02_JAVASCRIPT_NOTES/00_THROTTLE_&_DEBOUNCE/JAPANESE_EXPLANATION/window_size_debounce demo.html",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#40_031017_JS_LOGICAL_MACHINE/js/logical_js.js",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/shun_js_snippet.js",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#39_022017_JS_IF_CLASS_IN_VIEW_V2/IF_CLASS_IN_VIEW.html",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2017_0105-0130_SKETCH_APP_LEARNING/NOTES_2017_0105-0130_SKETCH_APP_LEARNING.txt",
+		"/Users/SHUN/Dropbox/CANADA/04_STUDY/NOTES_LE_WAGON.txt",
+		"/Users/SHUN/Desktop/test/test.txt",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/test_999/test.txt",
+		"/Users/SHUN/Dropbox/CANADA/03_EMPLOYMENT/SAMPLE_JOB_ADS/001-012_EXTRACT.txt",
+		"/Users/SHUN/Desktop/COMBINED.txt",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#47_072317_JS_BG_COLOR_CHANGE/css/bootstrap.css",
+		"/Users/SHUN/Google Drive/00_TIVO/03_EMPLOYMENT/01_APPLICATIONS/01_ENGLISH/99_ARCHIVE/2017_06_29_RANDSTAD/NOTE.txt",
+		"/Users/SHUN/Dropbox/00_メモ/履歴書.txt",
+		"/Users/SHUN/Dropbox/00_メモ/来歴.txt",
+		"/Users/SHUN/Dropbox/00_メモ/00ADDRESS.rtf",
+		"/Users/SHUN/Google Drive/00_TIVO/03_EMPLOYMENT/01_APPLICATIONS/履歴書.txt",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#46_042217_CSS_PROFILE_CARDS_[ON HOLD]/js/profile_card.js",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2017_0122_0214_SHUNS_PORTFOLIO/04_HTML/byte_size.html",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2017_0122_0214_SHUNS_PORTFOLIO/04_HTML/work_mos.html",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2017_0122_0214_SHUNS_PORTFOLIO/04_HTML/work_popup.html",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2017_0122_0214_SHUNS_PORTFOLIO/04_HTML/work_auckland.html",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2017_0122_0214_SHUNS_PORTFOLIO/04_HTML/work_gg_2015.html",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2017_0122_0214_SHUNS_PORTFOLIO/04_HTML/work_mng.html",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2017_0122_0214_SHUNS_PORTFOLIO/04_HTML/work_undp.html",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2017_0122_0214_SHUNS_PORTFOLIO/04_HTML/index.html",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2017_0122_0214_SHUNS_PORTFOLIO/04_HTML/byte_size/04_tabbed_sites/student_life.html",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2017_0122_0214_SHUNS_PORTFOLIO/04_HTML/byte_size/04_tabbed_sites/other.html",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2017_0122_0214_SHUNS_PORTFOLIO/04_HTML/byte_size/04_tabbed_sites/login.html",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2017_0122_0214_SHUNS_PORTFOLIO/04_HTML/byte_size/04_tabbed_sites/index.html",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2017_0122_0214_SHUNS_PORTFOLIO/04_HTML/byte_size/04_tabbed_sites/alumni.html",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2017_0122_0214_SHUNS_PORTFOLIO/04_HTML/byte_size/04_tabbed_sites/admissions.html",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2017_0122_0214_SHUNS_PORTFOLIO/04_HTML/byte_size/04_tabbed_sites/about.html",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2017_0122_0214_SHUNS_PORTFOLIO/04_HTML/byte_size/04_tabbed_sites/summer_school.html",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2017_0122_0214_SHUNS_PORTFOLIO/04_HTML/byte_size/04_tabbed_sites/stylesheet.css",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2017_0122_0214_SHUNS_PORTFOLIO/04_HTML/byte_size/03_floating_menu/byte_floating_menu.html",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2017_0122_0214_SHUNS_PORTFOLIO/04_HTML/byte_size/01_slide_out/byte_slide_out.html",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2017_0122_0214_SHUNS_PORTFOLIO/04_HTML/byte_size/03_floating_menu/stylesheet.css",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2017_0122_0214_SHUNS_PORTFOLIO/04_HTML/byte_size/01_slide_out/stylesheet.css",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2017_0122_0214_SHUNS_PORTFOLIO/04_HTML/byte_size/02_aquarium/byte_aquarium.html",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2017_0122_0214_SHUNS_PORTFOLIO/04_HTML/byte_size/02_aquarium/stylesheet.css",
+		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2017_0627-9999_edx_DATA_ANALYSIS_USING_EXCEL/NOTES.txt",
+		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2017_0122_0214_SHUNS_PORTFOLIO/04_HTML/css/stylesheet.scss",
+		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2017_0122_0214_SHUNS_PORTFOLIO/04_HTML/js/offset_detection_detail.js",
+		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2017_0122_0214_SHUNS_PORTFOLIO/04_HTML/work_mng.html",
+		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2017_0122_0214_SHUNS_PORTFOLIO/04_HTML/work_gg_2015.html",
+		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2017_0122_0214_SHUNS_PORTFOLIO/04_HTML/work_mos.html",
+		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2017_0122_0214_SHUNS_PORTFOLIO/04_HTML/work_popup.html",
+		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2017_0122_0214_SHUNS_PORTFOLIO/04_HTML/work_undp.html",
+		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2017_0122_0214_SHUNS_PORTFOLIO/04_HTML/99_ARCHIVES/work_packaging.html",
+		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2017_0122_0214_SHUNS_PORTFOLIO/04_HTML/work_auckland.html",
+		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2017_0122_0214_SHUNS_PORTFOLIO/04_HTML/index.html",
+		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2017_0122_0214_SHUNS_PORTFOLIO/04_HTML/css/bootstrap.css",
+		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2017_0122_0214_SHUNS_PORTFOLIO/04_HTML/css/bootstrap.min.css",
+		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2017_0122_0214_SHUNS_PORTFOLIO/04_HTML/work_asij.html",
+		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2017_0122_0214_SHUNS_PORTFOLIO/04_HTML/work_packaging.html",
+		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2017_0122_0214_SHUNS_PORTFOLIO/04_HTML/header.php",
+		"/Users/SHUN/Desktop/SHUN_MIYAKI_WILL.txt",
+		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2017_0122_0214_SHUNS_PORTFOLIO/99_BACKUP/06182017_PRE_VER2/index.html",
+		"/Users/SHUN/Desktop/TOKYO_LIST.txt",
+		"/Users/SHUN/Desktop/TOKYO_LIST",
+		"/Users/SHUN/Library/Caches/Adobe InDesign/Version 12.0-J/ja_JP/SHUN_INDD.txt",
+		"/Users/SHUN/Dropbox/00_メモ/レシピ.txt",
+		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2017_0122_0214_SHUNS_PORTFOLIO/04_HTML/images/my_skills_icon_3d.svg",
+		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2017_0122_0214_SHUNS_PORTFOLIO/04_HTML/images/my_skills_icon_code.svg",
+		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2017_0122_0214_SHUNS_PORTFOLIO/04_HTML/images/my_skills_icon_etc.svg",
+		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2017_0122_0214_SHUNS_PORTFOLIO/04_HTML/images/my_skills_icon_graphic.svg",
+		"/Users/SHUN/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2017_0122_0214_SHUNS_PORTFOLIO/04_HTML/css/stylesheet.css",
+		"/Users/SHUN/Dropbox/NEW_ZEALAND/08_NETWORKING/INFORMATIONAL_INTERVIEWS/INFORMATIONAL_INTERVIEW_NOTES.txt",
+		"/Users/SHUN/Google Drive/00_TIVO/03_EMPLOYMENT/01_APPLICATIONS/01_ENGLISH/99_ARCHIVE/2017_04_14_HYGIENE/NOTES_HYGIENE.txt",
+		"/Users/SHUN/Google Drive/00_TIVO/03_EMPLOYMENT/01_APPLICATIONS/01_ENGLISH/99_ARCHIVE/NZ_JOB_HUNT_NOTES.txt",
+		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2017_0320_UPWORK/00_CURRENT_JOBS/LOGO_RESEARCH_LAB/01_PROPOSAL.txt",
+		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2017_0320_UPWORK/00_CURRENT_JOBS/LOGO_RESEARCH_LAB/00_JOB_DETAIL.txt",
+		"/Users/SHUN/Dropbox/NEW_ZEALAND/07_VOLUNTEER/UN_VOLUNTEER/041817_UNV_INDIA_REPORT/NOTES_UNV_INDIA_REPORT.txt",
+		"/Users/SHUN/Dropbox/NEW_ZEALAND/07_VOLUNTEER/UN_VOLUNTEER/041317_EDITORIAL_CITY_RESILIENCE/untitled",
+		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2017_0328-0407_MEETUP/01_DISCUSSION_TOPICS.txt",
+		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2017_0328-0407_MEETUP/00_NOTES.txt",
+		"/Users/SHUN/Dropbox/NEW_ZEALAND/06_EMPLOYMENT_RESEARCH/NZ_ACCREDITED_EMPLOYERS_LIST_OCT2016.txt",
+		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/shun_css_snippet.scss",
+		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/99_TEMPLATE_SET/V4_FEB_2017/template.html",
+		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2017_0122_0214_SHUNS_PORTFOLIO/04_HTML/SHUNS_PORTFOLIO.sublime-project",
+		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#41_032717_JAVASCRIPT_FOR_KIDS/page268_SNAKE_part_2_annotated.html",
+		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#41_032717_JAVASCRIPT_FOR_KIDS/page268_SNAKE_part_2.html",
+		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#29_012117_JS_CATALOG_CLASS/addClass.js",
+		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/shun_js_snippet.js",
+		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#45_041517_CSS_TABBED_WEBSITES/css/stylesheet.scss",
+		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#45_041517_CSS_TABBED_WEBSITES/alumni.html",
+		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#45_041517_CSS_TABBED_WEBSITES/admissions.html",
+		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#45_041517_CSS_TABBED_WEBSITES/about.html",
+		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#45_041517_CSS_TABBED_WEBSITES/student_life.html",
+		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#45_041517_CSS_TABBED_WEBSITES/other.html",
+		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#45_041517_CSS_TABBED_WEBSITES/summer_school.html",
+		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#45_041517_CSS_TABBED_WEBSITES/index.html",
+		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#45_041517_CSS_TABBED_WEBSITES/login.html",
+		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#44_040917_CSS_FLOATING_CORNER_MENU/css/stylesheet.scss",
+		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#45_041517_CSS_TABBED_WEBSITES/CSS_TABBED_WEBSITES.html",
+		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#31_012717_JS_TOGGLE_NAVBAR_CLASS/js/toggleClass.js",
+		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#45_041517_CSS_TABBED_WEBSITES/js/navigationbar.js",
+		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#41_032717_JAVASCRIPT_FOR_KIDS/page162_RESPONDING_TO_USER_ACTIONS.html",
+		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#45_041517_CSS_TABBED_WEBSITES/image/logo.svg",
+		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#31_012717_JS_TOGGLE_NAVBAR_CLASS/css/stylesheet.scss",
+		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#43_040217_ANIMATE_SWIMMING_FISH/ANIMATE_SWIMMING_FISH.html",
+		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#31_012717_JS_TOGGLE_NAVBAR_CLASS/nav_class_toggle.html",
+		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#43_040217_ANIMATE_SWIMMING_FISH/css/stylesheet.scss",
+		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#44_040917_CSS_FLOATING_CORNER_MENU/FLOATING_CORNER_MENU.html",
+		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#41_032717_JAVASCRIPT_FOR_KIDS/page266_CHALLENGE_b.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<open folders>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"police",
+			"Japan",
+			"japan",
+			"Level",
+			"language",
+			"IELTS",
+			"experience",
+			"ECA",
+			"ICE",
+			"IEC",
+			"IELTS",
+			"provincial",
+			"600",
+			"67",
+			"72",
+			"each",
+			"image__frame--active",
+			"″",
+			"′",
+			"FFB247",
+			"8CE91F",
+			"debug",
+			"description",
+			"location",
+			"center__vh",
+			"container",
+			"fluid",
+			"AOL-",
+			"IP",
+			"sender",
+			"resizeBackgroundForTouchDevice",
+			"row",
+			"data",
+			"base",
+			"database",
+			"base",
+			"REDUX",
+			"REACT",
+			"CSS3",
+			"colourB",
+			"elementCenterVertical",
+			"background__color",
+			"bsecdk__3",
+			"position",
+			"property",
+			"window.innerHeight",
+			"window",
+			"REACT",
+			"RUBY",
+			"*",
+			"JQUERY",
+			" ",
+			"develop",
+			"  ",
+			"\t",
+			"color__",
+			"debug",
+			"０",
+			"２０００",
+			"balfour",
+			"代々木",
+			"151１５１",
+			"151",
+			"ShareTheMeal",
+			"my-work--image-block",
+			"grey",
+			"hover",
+			"50",
+			"aquarium",
+			"768",
+			"767",
+			"768",
+			"@",
+			"red-b",
+			"inspired",
+			"h1",
+			"font-s",
+			"byte",
+			"byte-size",
+			"main-page--my-work",
+			"my-work-page",
+			"47.5",
+			".my-work",
+			"my-work",
+			"pull-right",
+			"half",
+			"offset",
+			"col-sm-offset-1half",
+			"992",
+			"introduction",
+			"p {",
+			"linear-gra",
+			"linear",
+			"padding-top--add",
+			"抜き抜き",
+			"抜き",
+			"段",
+			"段抜き",
+			"ダン浮き",
+			"div.co",
+			"div.",
+			"div.con",
+			"750px",
+			"parent",
+			"navbar-brand",
+			"icon",
+			"icon-",
+			"parent",
+			"blue",
+			"main-page--get-in-touch",
+			"min-height",
+			"2.5",
+			"4px",
+			"200px",
+			"text-align-center--visible-sm",
+			"about",
+			"child",
+			"#main-page--hero-block",
+			"$navigation-bar-height--xs",
+			"54px",
+			"top--add",
+			"padding-left: 0;",
+			".navbar-brand",
+			"$navigation-bar-height--md",
+			"64",
+			"$navigation-bar-height--md",
+			"64",
+			"hover"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"",
+			"'",
+			"",
+			"\t",
+			"\t\t",
+			"\t\t\t",
+			" ",
+			"color--",
+			"h2",
+			"logo.svg",
+			"sub-color-1",
+			"0.375",
+			"0.3",
+			"0.225",
+			"0.15",
+			"0.075",
+			"__",
+			"$color__accent",
+			"$color__theme",
+			"$color__white",
+			"$color__black",
+			"$transition",
+			"vertical",
+			"%",
+			"-90px",
+			"%",
+			"vw",
+			"width--50",
+			"width--40",
+			"resultPos",
+			"0",
+			"",
+			"0",
+			"files",
+			"visible-sm-more",
+			"skills--wrapper",
+			"skills--icon-col",
+			"padding-top--add",
+			"$navigation-bar-height--md",
+			"$navigation-bar-height--xs",
+			"white",
+			"about-me",
+			"#222222",
+			"work",
+			"$spacer-mobile--main/2",
+			"$spacer-mobile--main",
+			"$spacer-mobile--main/2",
+			"<img class=\"my-work\" srcset=\"images/dummy_1x.png 1x, images/dummy_2x.png 2x\" src=\"images/dummy_1x.png\" alt=\"\">",
+			"dummy_1x.png",
+			"dummy_2x.png",
+			"dummy_1x.png",
+			"<img srcset=\"images/dummy@1x.png 1x, images/dummy@2x.png 2x\" src=\"images/dummy@1x.png\" alt=\"\">",
+			"dummy@1x.png",
+			"\t\t\t\t<img srcset=\"images/dummy.png 1x, images/dummy.png 2x\" src=\"images/dummy.png\" alt=\"\">\n",
+			"992",
+			"1024",
+			"paragraph-mono--sm",
+			"",
+			"$color--pink",
+			"$color--blue",
+			"1.5",
+			"$color--black",
+			"$fill--m",
+			"2",
+			"$color--blue",
+			"1",
+			"Get in touch.",
+			"main-page--get-in-touch",
+			"#main-page--get-in-touch",
+			"main-page--",
+			"",
+			"font-weight: 500",
+			"$spacer-mobile--sub",
+			"my-skills--list",
+			"block",
+			"col-xs",
+			"$color--black",
+			"$color--white",
+			"css",
+			"delta",
+			"DELTA",
+			"charlie",
+			"CHARLIE",
+			"bravo",
+			"BRAVO",
+			"1s",
+			"bravo",
+			"transparent",
+			"ECHO",
+			"DELTA",
+			"CHARLIE",
+			"BRAVO",
+			"ALPHA",
+			"DELTA",
+			"CHARLIE",
+			"navbar-nav--level--01",
+			"$gold",
+			"84",
+			".15",
+			" ",
+			"",
+			"1200",
+			"3px 15px 5px 15px",
+			".navbar-nav--sublevel",
+			"nav--link",
+			"$spacer_tablet_mobile",
+			"padding",
+			"$spacer",
+			"$heavy",
+			"",
+			"col-md-20per",
+			"student_life_school_name",
+			"student_life_image_box",
+			"display__if-desktop",
+			"display__if-mobile",
+			"student_life_image_box",
+			"student_life_text_box",
+			"student_life_school_initials",
+			"spacer_desktop",
+			"font__size_desktop",
+			"br--5line",
+			"events_section",
+			"#ffffff"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "plain text",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 124.0
+	},
+	"pinned_build_system": "",
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 634.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 677.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 248.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
