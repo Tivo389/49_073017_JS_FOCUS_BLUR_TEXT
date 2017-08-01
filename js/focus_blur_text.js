@@ -5,7 +5,7 @@ $(document).ready(function () {
 
 
 var debounceFunction = (function() {
-	var	interval = 10,
+	var	interval = 1,
 		timer;
 
 	return function() {
@@ -32,14 +32,14 @@ var debounceFunction = (function() {
 			// console.log( 'Scroll dist from top is ' + $(window).scrollTop() );
 			// console.log( 'The distance of #3 is ' + ( ($('#section__3').offset().top) + ($('#section__3').outerHeight()/2) - ($(window).scrollTop()) ) + ' from the top of the window' );
 
-			$('.image__frame').each(function() {
+			$('.text').each(function() {
 
 				if (isScrolledIntoView(this) === true) {
 				// I added the '===true' for clarity, it works without it.
 
-					$(this).addClass('image__frame--active');
+					$(this).addClass('text--active');
 				} else {
-					$(this).removeClass('image__frame--active');
+					$(this).removeClass('text--active');
 				}
 			});
 

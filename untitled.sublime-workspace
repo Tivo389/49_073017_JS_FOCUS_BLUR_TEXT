@@ -519,13 +519,6 @@
 	},
 	"buffers":
 	[
-		{
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -659,15 +652,21 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#49_073017_JS_FOCUS_BLUR_TEXT"
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#49_073017_JS_FOCUS_BLUR_TEXT",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#49_073017_JS_FOCUS_BLUR_TEXT/css",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#49_073017_JS_FOCUS_BLUR_TEXT/js"
 	],
 	"file_history":
 	[
+		"/Users/SHUN/Dropbox/00_メモ/00ADDRESS.txt",
+		"/Users/SHUN/Dropbox/CANADA/00_NOTES_CANADA.txt",
 		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#49_073017_JS_FOCUS_BLUR_TEXT/README.md",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#49_073017_JS_FOCUS_BLUR_TEXT/css/stylesheet.scss",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#49_073017_JS_FOCUS_BLUR_TEXT/js/focus_blur_text.js",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#49_073017_JS_FOCUS_BLUR_TEXT/JS_FOCUS_BLUR_TEXT.html",
 		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#48_072817_JS_PHOTO_BW_2_COLOR/JS_PHOTO_BW_2_COLOR.html",
 		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#48_072817_JS_PHOTO_BW_2_COLOR/css/stylesheet.scss",
 		"/Users/SHUN/Dropbox/CANADA/01_NOTES_CONSULTANTS.txt",
-		"/Users/SHUN/Dropbox/CANADA/00_NOTES_CANADA.txt",
 		"/Users/SHUN/Dropbox/CANADA/My estimate total: 24 + 22 + 11 + 12 + 0 + 0 = 69p",
 		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#49_07XX17_JS_FOCUS_BLUR_TEXT/README.md",
 		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#47_072317_JS_BG_COLOR_CHANGE/css/stylesheet.scss",
@@ -676,7 +675,6 @@
 		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#48_072817_JS_PHOTO_BW_2_COLOR/README.md",
 		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/shun_css_snippet.scss",
 		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2017_0122_0214_SHUNS_PORTFOLIO/04_HTML/css/stylesheet.scss",
-		"/Users/SHUN/Dropbox/00_メモ/00ADDRESS.txt",
 		"/Users/SHUN/Dropbox/05_JOBHUNT/00_PRE_INTERVIEW.txt",
 		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/99_TEMPLATE_SET/V4_FEB_2017/css/stylesheet.scss",
 		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#47_072317_JS_BG_COLOR_CHANGE/JS_BG_COLOR_CHANGE.html",
@@ -787,14 +785,11 @@
 		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#45_041517_CSS_TABBED_WEBSITES/image/logo.svg",
 		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#31_012717_JS_TOGGLE_NAVBAR_CLASS/css/stylesheet.scss",
 		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#43_040217_ANIMATE_SWIMMING_FISH/ANIMATE_SWIMMING_FISH.html",
-		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#31_012717_JS_TOGGLE_NAVBAR_CLASS/nav_class_toggle.html",
-		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#43_040217_ANIMATE_SWIMMING_FISH/css/stylesheet.scss",
-		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#44_040917_CSS_FLOATING_CORNER_MENU/FLOATING_CORNER_MENU.html",
-		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#41_032717_JAVASCRIPT_FOR_KIDS/page266_CHALLENGE_b.html"
+		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#31_012717_JS_TOGGLE_NAVBAR_CLASS/nav_class_toggle.html"
 	],
 	"find":
 	{
-		"height": 27.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
@@ -806,9 +801,12 @@
 	},
 	"find_state":
 	{
-		"case_sensitive": true,
+		"case_sensitive": false,
 		"find_history":
 		[
+			"sony",
+			"general",
+			"ielts",
 			"police",
 			"Japan",
 			"japan",
@@ -933,10 +931,7 @@
 			"padding-left: 0;",
 			".navbar-brand",
 			"$navigation-bar-height--md",
-			"64",
-			"$navigation-bar-height--md",
-			"64",
-			"hover"
+			"64"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1077,37 +1072,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"bs_sintax": "plain text",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -1195,7 +1161,7 @@
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 248.0,
 	"status_bar_visible": true,
 	"template_settings":
