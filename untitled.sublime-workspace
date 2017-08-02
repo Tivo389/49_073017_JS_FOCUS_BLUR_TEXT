@@ -4,16 +4,48 @@
 		"selected_items":
 		[
 			[
+				"a",
+				"align-items"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"transi",
+				"transition"
+			],
+			[
+				"al",
+				"align-content"
+			],
+			[
+				"f",
+				"flex"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"background",
+				"background-position"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
 				"font",
 				"font-weight"
 			],
 			[
 				"back",
 				"background-color"
-			],
-			[
-				"pad",
-				"padding-bottom"
 			],
 			[
 				"hi",
@@ -72,10 +104,6 @@
 				"visible-lg \tBootstrap 3 Class"
 			],
 			[
-				"transi",
-				"transition-timing-function"
-			],
-			[
 				"marker",
 				"markerWindowTop"
 			],
@@ -114,10 +142,6 @@
 			[
 				"padd",
 				"padding-right"
-			],
-			[
-				"margin",
-				"margin-left"
 			],
 			[
 				"col-lg-off",
@@ -328,10 +352,6 @@
 				"background-color"
 			],
 			[
-				"backg",
-				"background-color"
-			],
-			[
 				"pa",
 				"pageX"
 			],
@@ -362,10 +382,6 @@
 			[
 				"F",
 				"FLORA-1.png\tw:404 h:562"
-			],
-			[
-				"f",
-				"FISH-1.png\tw:302 h:124"
 			],
 			[
 				"disp",
@@ -498,22 +514,6 @@
 			[
 				"variable",
 				"variable"
-			],
-			[
-				"pc",
-				"phrasesCharlie"
-			],
-			[
-				"phras",
-				"phrasesAlpha"
-			],
-			[
-				"answer",
-				"answerArray"
-			],
-			[
-				"aler",
-				"alert"
 			]
 		]
 	},
@@ -527,10 +527,30 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 127.0,
-		"last_filter": "reload",
+		"height": 347.0,
+		"last_filter": "relo",
 		"selected_items":
 		[
+			[
+				"relo",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
 			[
 				"reload",
 				"LiveReload: Enable/disable plug-ins"
@@ -542,10 +562,6 @@
 			[
 				"",
 				"LiveReload: Enable/disable plug-ins"
-			],
-			[
-				"packa",
-				"Package Control: List Packages"
 			],
 			[
 				"packag",
@@ -564,16 +580,8 @@
 				"Package Control: List Packages"
 			],
 			[
-				"insta",
-				"Package Control: Install Package"
-			],
-			[
 				"list",
 				"Package Control: List Packages"
-			],
-			[
-				"remov",
-				"Package Control: Remove Package"
 			],
 			[
 				"r",
@@ -590,10 +598,6 @@
 			[
 				"livere",
 				"Snippet: Create new LiveReload plugin"
-			],
-			[
-				"install",
-				"Package Control: Install Package"
 			],
 			[
 				"remove",
@@ -658,12 +662,24 @@
 	],
 	"file_history":
 	[
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#49_073017_JS_FOCUS_BLUR_TEXT/js/focus_blur_text.js",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#49_073017_JS_FOCUS_BLUR_TEXT/css/stylesheet.scss",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#49_073017_JS_FOCUS_BLUR_TEXT/JS_FOCUS_BLUR_TEXT.html",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#49_073017_JS_FOCUS_BLUR_TEXT/README.md",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#10_041416_CSS_PARALLAX_V1/css/stylesheet.css",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#10_041416_CSS_PARALLAX_V1/parallax_css_basics.html",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#11_041716_CSS_PARALLAX_V2/parallax_css_divs.html",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/01_HTML_NOTES/NOTES_SASS/MIXINS_EXTENDS_EXPERIMENT/EXTEND_SCSS.scss",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/01_HTML_NOTES/NOTES_SASS/MIXINS_EXTENDS_EXPERIMENT/MIXIN_ARG_SCSS.scss",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/01_HTML_NOTES/NOTES_SASS/MIXINS_EXTENDS_EXPERIMENT/MIXIN_SCSS.scss",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/01_HTML_NOTES/NOTES_SASS/MIXINS_EXTENDS_EXPERIMENT/EXTEND_CSS.css",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/01_HTML_NOTES/NOTES_SASS/MIXINS_EXTENDS_EXPERIMENT/MIXIN_CSS.css",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/01_HTML_NOTES/NOTES_SASS/MIXINS_EXTENDS_EXPERIMENT/MIXIN_ARG_CSS.css",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/shun_css_snippet.scss",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#11_041716_CSS_PARALLAX_V2/style.css",
+		"/Users/SHUN/Library/Application Support/Sublime Text 3/Packages/Can I Use/Can I Use.sublime-settings",
 		"/Users/SHUN/Dropbox/00_メモ/00ADDRESS.txt",
 		"/Users/SHUN/Dropbox/CANADA/00_NOTES_CANADA.txt",
-		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#49_073017_JS_FOCUS_BLUR_TEXT/README.md",
-		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#49_073017_JS_FOCUS_BLUR_TEXT/css/stylesheet.scss",
-		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#49_073017_JS_FOCUS_BLUR_TEXT/js/focus_blur_text.js",
-		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#49_073017_JS_FOCUS_BLUR_TEXT/JS_FOCUS_BLUR_TEXT.html",
 		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#48_072817_JS_PHOTO_BW_2_COLOR/JS_PHOTO_BW_2_COLOR.html",
 		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#48_072817_JS_PHOTO_BW_2_COLOR/css/stylesheet.scss",
 		"/Users/SHUN/Dropbox/CANADA/01_NOTES_CONSULTANTS.txt",
@@ -673,7 +689,6 @@
 		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#48_072817_JS_PHOTO_BW_2_COLOR/js/gray_to_color.js",
 		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#39_022017_JS_IF_CLASS_IN_VIEW_V2/js/viewport.js",
 		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#48_072817_JS_PHOTO_BW_2_COLOR/README.md",
-		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/shun_css_snippet.scss",
 		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2017_0122_0214_SHUNS_PORTFOLIO/04_HTML/css/stylesheet.scss",
 		"/Users/SHUN/Dropbox/05_JOBHUNT/00_PRE_INTERVIEW.txt",
 		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/99_TEMPLATE_SET/V4_FEB_2017/css/stylesheet.scss",
@@ -774,18 +789,7 @@
 		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#45_041517_CSS_TABBED_WEBSITES/about.html",
 		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#45_041517_CSS_TABBED_WEBSITES/student_life.html",
 		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#45_041517_CSS_TABBED_WEBSITES/other.html",
-		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#45_041517_CSS_TABBED_WEBSITES/summer_school.html",
-		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#45_041517_CSS_TABBED_WEBSITES/index.html",
-		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#45_041517_CSS_TABBED_WEBSITES/login.html",
-		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#44_040917_CSS_FLOATING_CORNER_MENU/css/stylesheet.scss",
-		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#45_041517_CSS_TABBED_WEBSITES/CSS_TABBED_WEBSITES.html",
-		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#31_012717_JS_TOGGLE_NAVBAR_CLASS/js/toggleClass.js",
-		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#45_041517_CSS_TABBED_WEBSITES/js/navigationbar.js",
-		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#41_032717_JAVASCRIPT_FOR_KIDS/page162_RESPONDING_TO_USER_ACTIONS.html",
-		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#45_041517_CSS_TABBED_WEBSITES/image/logo.svg",
-		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#31_012717_JS_TOGGLE_NAVBAR_CLASS/css/stylesheet.scss",
-		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#43_040217_ANIMATE_SWIMMING_FISH/ANIMATE_SWIMMING_FISH.html",
-		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#31_012717_JS_TOGGLE_NAVBAR_CLASS/nav_class_toggle.html"
+		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#45_041517_CSS_TABBED_WEBSITES/summer_school.html"
 	],
 	"find":
 	{
@@ -804,6 +808,19 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"for",
+			"here",
+			"been",
+			"ve",
+			"\">'",
+			"We",
+			"ve",
+			"We",
+			"image__frame",
+			"1",
+			"parallax__layer",
+			"parallax__section",
+			"world",
 			"sony",
 			"general",
 			"ielts",
@@ -918,20 +935,7 @@
 			"blue",
 			"main-page--get-in-touch",
 			"min-height",
-			"2.5",
-			"4px",
-			"200px",
-			"text-align-center--visible-sm",
-			"about",
-			"child",
-			"#main-page--hero-block",
-			"$navigation-bar-height--xs",
-			"54px",
-			"top--add",
-			"padding-left: 0;",
-			".navbar-brand",
-			"$navigation-bar-height--md",
-			"64"
+			"2.5"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1161,7 +1165,7 @@
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": false,
+	"side_bar_visible": true,
 	"side_bar_width": 248.0,
 	"status_bar_visible": true,
 	"template_settings":
