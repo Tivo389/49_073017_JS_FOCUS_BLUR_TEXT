@@ -13,8 +13,8 @@ var debounceFunction = (function() {
 		timer = setTimeout(function() {
 
 			function isScrolledIntoView(element) {
-				var	markerWindowTop = window.innerHeight*0.25,
-					markerWindowBottom = window.innerHeight*0.75,				
+				var	markerWindowTop = window.innerHeight*0.15,
+					markerWindowBottom = window.innerHeight*0.85,				
 					elementCenterVertical = ($(element).offset().top + $(element).outerHeight()/2) - ($(window).scrollTop());
 
 				// Code that I used to confirm the output of each variable 

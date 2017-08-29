@@ -65,12 +65,12 @@ a {
 	}
 }
 .text {
-		font-size: 7.5rem;
+		font-size: 6rem;
 		color: transparent;
 		transition: text-shadow 1.5s ease-out;
 		text-shadow: 0 0 100px rgba(0, 0, 0, 1);
 	&--active {
-		transition: text-shadow 0.2s ease-out !important;
+		transition: text-shadow 0.5s ease-out !important;
 		text-shadow: 0 0 0px rgba(0, 0, 0, 1) !important;
 	}
 }
